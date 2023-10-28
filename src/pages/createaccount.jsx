@@ -1,9 +1,7 @@
-// eslint-disable-next-line no-unused-vars
+
 import React from "react";
 import LoginAdminLayout from "../Components/LoginAdminLayout";
-// import { useState } from "react";
 
-// const [Hide, setHide] = useState(true);
 
 const CreateAccount = () => (
   <LoginAdminLayout>
