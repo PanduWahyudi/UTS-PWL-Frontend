@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import {createBrowserRouter, RouterProvider} from "react-router-dom"
 import Home from './pages/home'
-import CreateAccount from "./Pages/createaccount";
+import CreateAccount from "./pages/createaccount";
 import LoginPages from './pages/login'
 import AddProductPage from './pages/product/addProduct'
 import ProductPage from './pages/product/productPage'
